@@ -23,7 +23,7 @@ body {
 
 .bg {
 	height: 100vh;
-	background-image: url("../img/bg.jpg");
+	background-image: url(../img/bg.jpg);
 	background-size: cover;
 	position: relative;
 }
@@ -96,7 +96,7 @@ body {
 	}
 	&__text {
 		color: #fff;
-	    ы
+	    
 		padding: 0 0 0 25px;
 	}
 	&__title {
